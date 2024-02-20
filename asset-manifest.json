@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd665d5c.css",
+    "main.js": "/static/js/main.81dcdf03.js",
+    "static/media/Games.png": "/static/media/Games.8154b6f643ef2e57a01f.png",
+    "static/media/petition_image.png": "/static/media/petition_image.ec611211423c8a60931a.png",
+    "static/media/basketball_1.png": "/static/media/basketball_1.c0f2f729fa9e8fe206ac.png",
+    "static/media/knapp_logo.png": "/static/media/knapp_logo.21e8ac3f3627abfc4ec0.png",
+    "static/media/football_1.png": "/static/media/football_1.bf5209035274dd3fee74.png",
+    "static/media/voleyball_1.png": "/static/media/voleyball_1.c95628438af7f1251b13.png",
+    "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
+    "index.html": "/index.html",
+    "main.fd665d5c.css.map": "/static/css/main.fd665d5c.css.map",
+    "main.81dcdf03.js.map": "/static/js/main.81dcdf03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd665d5c.css",
+    "static/js/main.81dcdf03.js"
+  ]
+}
