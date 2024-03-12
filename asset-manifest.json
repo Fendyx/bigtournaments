@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd665d5c.css",
-    "main.js": "/static/js/main.81dcdf03.js",
+    "main.css": "/static/css/main.1695ded8.css",
+    "main.js": "/static/js/main.72da28bd.js",
     "static/media/Games.png": "/static/media/Games.8154b6f643ef2e57a01f.png",
     "static/media/petition_image.png": "/static/media/petition_image.ec611211423c8a60931a.png",
     "static/media/basketball_1.png": "/static/media/basketball_1.c0f2f729fa9e8fe206ac.png",
@@ -10,11 +10,11 @@
     "static/media/voleyball_1.png": "/static/media/voleyball_1.c95628438af7f1251b13.png",
     "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
     "index.html": "/index.html",
-    "main.fd665d5c.css.map": "/static/css/main.fd665d5c.css.map",
-    "main.81dcdf03.js.map": "/static/js/main.81dcdf03.js.map"
+    "main.1695ded8.css.map": "/static/css/main.1695ded8.css.map",
+    "main.72da28bd.js.map": "/static/js/main.72da28bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd665d5c.css",
-    "static/js/main.81dcdf03.js"
+    "static/css/main.1695ded8.css",
+    "static/js/main.72da28bd.js"
   ]
 }
